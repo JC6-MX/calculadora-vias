@@ -1,5 +1,5 @@
 // Sube VERSION cada vez que cambies cualquier archivo: así el iPhone baja lo nuevo
-const VERSION = 'v1';
+const VERSION = 'v2';
 const ARCHIVOS = ['./', 'index.html', 'manifest.webmanifest', 'icono-180.png', 'icono-512.png',
   'fuentes/archivo.woff2', 'fuentes/plex-mono-600.woff2'];
 
